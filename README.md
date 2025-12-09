@@ -1,4 +1,3 @@
-# case-study2
 # case-study
 Customer &amp; Account Data Analysis
 This repository contains Python scripts used to explore, clean, merge, and analyze customer, account, and lead datasets from an Excel file. The project performs exploratory data analysis (EDA), feature engineering, and segmentation preparation for downstream analytics or modeling.
